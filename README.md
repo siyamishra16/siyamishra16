@@ -48,12 +48,13 @@
 📖 Learning **deep learning, NLP, and computer vision**.  
 
 ---
-
+ 
 ## 📈 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" height="165px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" height="165px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=siyamishra16&show_icons=true&theme=radical" height="165px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siyamishra16&theme=radical" height="165px"/>
 </p>
+
 
 ---
 
