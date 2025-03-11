@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Siya Mishra!  
 
-![Banner](https://source.unsplash.com/1600x500/?technology,ai)  
 
 ## 🚀 About Me  
 🎯 I'm an **Artificial Intelligence and Machine Learning Enthusiast** passionate about **building intelligent systems, analyzing data, and solving real-world problems** using AI and ML.  
@@ -60,7 +59,7 @@
 
 ## 🌐 Connect with Me  
 <p align="left">
-  <a href="www.linkedin.com/in/siya-mishra-aiml" target="_blank">
+  <a href="https://www.linkedin.com/in/siya-mishra-aiml" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
  
